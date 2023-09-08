@@ -107,6 +107,6 @@ Algoritmo tpFinalFinalDefinitivo
 		Escribir Sin Saltar"Usuario bloqueado, utilizo 3 intentos!"
 		Escribir "SISTEMA BLOQUEADO: CERRANDO PROGRAMA"
 	FinSi
-	
+	//aasdasfafapsnfolanvbav
 FinAlgoritmo
 
